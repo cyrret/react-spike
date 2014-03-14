@@ -1,0 +1,10 @@
+{
+	"name" : "react-spike",
+	"version" : "0.1.0",
+	"dependencies" : {
+		"grunt-contrib-jasmine" : "*",
+		"grunt-cli" : "*",
+		"grunt-contrib-watch" : "*",
+		"grunt-contrib-connect" : "*"
+	}
+}
